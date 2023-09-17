@@ -1,0 +1,430 @@
+@media only screen and (max-width: 1200px) and (min-width: 800px){
+    .sec2div{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec2text {
+        width: 60%;
+        text-align: left;
+        background-color: rgba(1, 1, 22, 0.995);
+        margin: 50px 50px 50px 50px;
+        padding: 20px;
+        border-bottom: 1px solid crimson;   
+    }
+    .sec2text h2{
+        font-size: 1.3em;
+    }
+    .sec2text h1{
+        font-size: 1.8em;
+    }
+    .sec2text p{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 15px 15px 15px 0px;
+        color: whitesmoke;
+        font-size: 1em;
+        letter-spacing: 1px;
+        word-spacing: 3px;
+        font-weight: 200;
+    }
+    .sec2text i{
+        font-size: 0.6em;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec3pt1 i{
+        font-size: 0.6em;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec8text i{
+        font-size: 0.6em;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec2img {
+        width: 65%;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec3pt1 h1{
+        font-size: 1.8em;
+    }
+    .sec3pt2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(1, 1, 22, 0.995);
+        padding: 40px;
+    }
+    .sec3pt2 h1{
+        color: #a3ff12;
+        padding: 10px;
+        font-size: 3em;
+        font-weight: 700;
+        font-family: Russo One;
+    }
+    .sec3pt2 h3{
+        color: white;
+        padding: auto;
+        padding-left: 5px;
+        padding-right: 15px;
+        font-size: 0.8em;
+    }
+    .sec3pt3{
+        display: flex;
+    }
+    .section4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+        padding: 10px 10px 0px 0px;
+    }
+    .sec4pt {
+        background-color: #a3ff12;
+        width: 35%;
+        height: 270px;
+        padding: 20px 0px 20px 0px;
+    }
+
+    .sec4pt h1{
+        padding: 20px;
+        font-size: 1em;
+        letter-spacing: 0px;
+    }
+    .sec4pt p{
+        font-size: 0.8em;
+        word-spacing: 3px;
+        font-weight: 500;
+        color: black;
+        text-align: left;
+        padding: 20px;
+    }
+    .sec6 img{
+        padding: 10px 40px 10px 40px;   
+    }
+    .sec8div{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec8text h2{
+        font-size: 1.3em;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+    }
+    .sec8text h1{
+        font-size: 1.8em;
+        letter-spacing: 1px;
+        padding-bottom: 15px;
+    }
+    .sec8text p{
+        padding: 30px 0px;
+        color: whitesmoke;
+        font-size: 1.2em;
+        letter-spacing: 1px;
+        word-spacing: 1px;
+        margin-bottom: 20px;
+        font-weight: 300;
+    }
+
+}
+@media only screen and (max-width: 799px) and (min-width: 500px){
+    .sec1pt h1 {
+        font-size: 2em;
+    }
+    .sec1pt h3{
+        font-size: 1.2em;
+    }
+    .sec2div{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec2text {
+        width: 80%; 
+    } 
+    .sec2img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec3pt2{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec3pt3{
+        display: flex;
+    }
+    .sec3pt2 h1{
+        color: #a3ff12;
+        padding: 10px;
+        font-size: 4em;
+        font-weight: 700;
+        font-family: Russo One;
+    }
+    .sec3pt2 h3{
+        margin-top: auto;
+        margin-bottom: auto;
+        color: white;
+        padding: auto;
+        padding-left: 15px;
+        font-size: 1.8em;
+        font-weight: 400;
+        position: relative;
+        font-family: Russo One;
+    }
+    .section4{
+        display: flex;
+        flex-direction: column;   
+    }
+    .sec4pt {
+        background-color: #a3ff12;
+        width: 80%;
+        height: 250px;
+        padding: 20px 0px 20px 0px;
+    }
+    .sec6 img{
+        padding: 10px 20px 10px 20px;   
+    }
+    .sec7pt4 h3{
+        color: #a3ff12;
+        font-size: 0.9em;
+    }
+    .sec7pt4 h2{
+        color: #a3ff12;
+        font-size: 0.9em;
+    }
+    .sec8div{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec8img img{
+        height: 500px;
+        width: 450px;    
+    }
+    .sec8text {
+        height: 580px;
+        width: 400px;
+        text-align: left;
+        background-color: rgba(1, 1, 22, 0.995);
+        margin: 5px 15px 5px 15px;
+        padding: 20px;
+        border-bottom: 1px solid crimson;   
+    }
+    .section10 p{
+        color: white;
+        font-family: Russo One;
+        font-size: 0.8em;
+        font-weight: 100;
+        text-align: center;
+        padding: 10px 170px 10px 10px;
+    }
+}
+/* portrait mobiles */
+@media (max-width: 499px){
+    .navdiv2 {
+        padding: 10px 20px;
+    }
+    .navdiv3 {
+        width: 50%;
+        display: flex;
+        align-items: flex-end;
+        margin: 0px 10px;
+        background-color: rgba(1, 1, 22, 0.995);
+        justify-content: flex-end;
+    }
+    .navdiv4{
+        width: 100%;
+        margin-top: auto;
+        margin-bottom: auto;
+        padding: 5px 10px;
+    } 
+    .navdiv4 a{
+        font-size: 0.7em;
+        font-weight: 200;
+        padding: 0px 10px;
+    }
+    .sec1pt h1 {
+        font-size: 1.6em;
+        word-spacing: 2px;
+    }
+    .sec1pt h3{
+        font-size: 1em;
+    }
+    .sec2div{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec2text {
+        width: 80%; 
+    } 
+    .sec2img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 85%;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec2text h2{
+        font-size: 1.3em;
+    }
+    .sec2text h1{
+        font-size: 1.8em;
+    }
+    .sec2text p{
+        font-size: 0.8em;
+    }
+    .sec2text i{
+        font-size: 0.6em;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec3pt1 i{
+        font-size: 0.6em;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec8text i{
+        font-size: 0.6em;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec3pt1 h2{
+        color: crimson;
+        font-family: Russo One;
+        font-weight: 300;
+        font-size: 1em;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+    }
+    .sec3pt1 h1{
+        color: white;
+        font-family: Russo One;
+        font-size: 1.5em;
+        font-weight: 500;
+        letter-spacing: 1px;
+        padding-bottom: 15px;
+    }
+    .sec3pt2{
+        width: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .sec3pt3{
+        display: flex;
+        text-align: left;
+    }
+    .sec3pt2 h1{
+        color: #a3ff12;
+        padding: 10px;
+        font-size: 3em;
+        font-weight: 700;
+        font-family: Russo One;
+    }
+    .sec3pt2 h3{
+        margin-top: auto;
+        margin-bottom: auto;
+        color: white;
+        padding: auto;
+        padding-left: 15px;
+        font-size: 1.1em;
+        font-weight: 400;
+        position: relative;
+        font-family: Russo One;
+    }
+    .section4{
+        display: flex;
+        flex-direction: column;   
+    }
+    .sec4pt {
+        background-color: #a3ff12;
+        width: 90%;
+        height: 250px;
+        padding: 20px 0px 20px 0px;
+    }
+    .sec4pt h1{
+        font-size: 1em;
+    }
+    .sec4pt p{
+        font-size: 0.8em;
+        word-spacing: 3px;
+        font-weight: 400;
+        color: black;
+        text-align: left;
+        padding: 20px;
+    }
+    .sec6 img{
+        padding: 10px;   
+    }
+    .sec7pt4 {
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .sec7pt4 h3{
+        color: #a3ff12;
+        font-size: 0.6em;
+        margin: 0px;
+    }
+    .sec7pt4 h2{
+        color: #a3ff12;
+        font-size: 0.6em;
+    }
+    .sec8div{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec8img img{
+        height: 500px;
+        width: 360px;    
+    }
+    .sec8text {
+        height: 480px;
+        width: 330px;
+        text-align: left;
+        background-color: rgba(1, 1, 22, 0.995);
+        margin: 5px 15px 5px 15px;
+        padding: 20px;
+        border-bottom: 1px solid crimson;   
+    }
+    .sec8text h2{
+        color: crimson;
+        font-family: Russo One;
+        font-size: 1.3em;
+        letter-spacing: 1px;
+        padding-bottom: 5px;
+    }
+    .sec8text h1{
+        color: white;
+        font-family: Russo One;
+        font-size: 1.8em;
+        letter-spacing: 1px;
+        padding-bottom: 15px;
+    }
+    .sec8text p{
+        padding: 30px 0px;
+        color: whitesmoke;
+        font-size: 0.8em;
+        letter-spacing: 1px;
+        word-spacing: 1px;
+        margin-bottom: 20px;
+        font-weight: 300;
+    }
+    .section9 h1{
+        text-align: center;
+        margin: 10px;
+        font-size: 1.2em;
+    }
+    .section10 p{
+        color: white;
+        font-family: Russo One;
+        font-size: 0.6em;
+        font-weight: 100;
+        text-align: center;
+        padding: 10px 150px 10px 10px;
+    }
+}
